@@ -2,6 +2,7 @@
 
 - 💼 I'm currently working on [Esker](https://www.esker.com/) 
 - 🏆 I'm currently taking [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx) challenges
+- ♻  I'm currently relearning TypeScript
 
 - Previous jobs:
     - Realtime role-based SPA for [HP SCDS](https://hpscds.com/observatorio-hp/) (november 2019 - july 2020)
@@ -10,6 +11,6 @@
 - Studies:
     - Computer Engineering at the [University of Valladolid](uva.es/export/sites/uva/)
 
-- Contact: [Guillermo Anta Alonso](mailto:guillermoantataz@gmail.com)
+- 📫 How to reach me: [Guillermo Anta Alonso](mailto:guillermoantataz@gmail.com)
 
 Valladolid, España
