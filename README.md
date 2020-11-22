@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Guillermo Anta, Sofware Developer
 
-<!--
-**Antazx/Antazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I'm currently working on [Esker](https://www.esker.com/) 
+- 🏆 I'm currently taking [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx) challenges
 
-Here are some ideas to get you started:
+- Previous jobs:
+    - Realtime role-based SPA for [HP SCDS](https://hpscds.com/observatorio-hp/) (november 2019 - july 2020)
+    - Software developer at [SilverStorm](https://www.silver-storm.com/es/) (april 2018 - september 2019)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studies:
+    - Computer Engineering at the [University of Valladolid](uva.es/export/sites/uva/)
+
+- Contact: [Guillermo Anta Alonso](mailto:guillermoantataz@gmail.com)
+
+Valladolid, España
