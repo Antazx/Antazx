@@ -1,5 +1,4 @@
-# Guillermo Anta
-## Software Engineering
+# Guillermo Anta, Software engineer
 
 - 💼 I'm currently working on [Esker](https://www.esker.com/) 
 - 🏆 I'm currently taking [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx) challenges
