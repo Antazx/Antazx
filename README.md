@@ -8,11 +8,11 @@
 
 
 ## Previous jobs:
-    - Realtime role-based SPA for [HP SCDS](https://hpscds.com/observatorio-hp/) (november 2019 - july 2020)
-    - Software developer at [SilverStorm](https://www.silver-storm.com/es/) (april 2018 - september 2019)
+- Realtime role-based SPA for [HP SCDS](https://hpscds.com/observatorio-hp/) (november 2019 - july 2020)
+- Software developer at [SilverStorm](https://www.silver-storm.com/es/) (april 2018 - september 2019)
 
 ## Studies:
-    - Computer Engineering at the [University of Valladolid](uva.es/export/sites/uva/)
+- Computer Engineering at the [University of Valladolid](uva.es/export/sites/uva/)
 
 ## Contact:
 - 📫 How to reach me: [Guillermo Anta Alonso](mailto:guillermoantataz@gmail.com)
