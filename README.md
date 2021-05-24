@@ -1,6 +1,6 @@
 # Guillermo Anta, Software engineer
 
-- 💼 I'm currently working on [Esker](https://www.esker.com/) 
+- 💼 I'm currently working at [Esker](https://www.esker.com/) 
 - 🏆 I'm currently taking [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx) challenges
 - 🏆 I'm currently taking [Advent Of Code](https://adventofcode.com/) challenges
 -   I'm currently relearning TypeScript
