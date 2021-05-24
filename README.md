@@ -1,10 +1,11 @@
 # Guillermo Anta, Software engineer
 
 - 💼 I'm currently working at [Esker](https://www.esker.com/) 
-- 🏆 I'm currently taking [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx) challenges
-- 🏆 I'm currently taking [Advent Of Code](https://adventofcode.com/) challenges
--   I'm currently relearning TypeScript
-
+- 👓 I'm currently taking [fullstakopen 2020](https://fullstackopen.com/en/)
+--- 
+Last challenges
+- 🏆 [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx)
+- 🏆 [Advent Of Code](https://adventofcode.com/)
 
 ## Previous jobs:
 - Realtime role-based SPA for [HP SCDS](https://hpscds.com/observatorio-hp/) (november 2019 - july 2020)
