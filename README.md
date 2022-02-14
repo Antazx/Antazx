@@ -3,6 +3,7 @@
 - 💼 I'm currently working as back-end developer at [The Telecom Boutique](https://www.telecomboutique.com) 
 --- 
 Last challenges
+- 🏆 [Code wars](https://www.codewars.com/users/Antazx)
 - 🏆 [Advent Of Code](https://adventofcode.com/) => [Solutions](https://github.com/Antazx/advent-of-code-2021)
 - 🏆 [frontendmentor.io](https://www.frontendmentor.io/profile/Antazx)
 - 🏆 [fullstakopen 2020](https://fullstackopen.com/en/)
